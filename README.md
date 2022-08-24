@@ -1,4 +1,4 @@
 # Hello-world
 My first repository on GitHub
 
-Ilove :Coffee: :pizza:, and :Dancer:.
+I love :coffee: :pizza:, and :dancer:
